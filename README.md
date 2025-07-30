@@ -1,5 +1,3 @@
-
-
 🎓 **Estudante de Engenharia de Software**  
 💻 **Desenvolvedor Back-end | Java & Spring Boot**  
 
@@ -7,14 +5,9 @@
 
 ## 🔧 Tech Stack
 💡 **Back-end:** Java, Spring Boot, Node.js  
-🎨 **Front-end:** React, TypeScript, TailwindCSS  
 🗄️ **Banco de Dados:** PostgreSQL, MySQL, Supabase  
 🛠️ **Ferramentas:** Git, Docker, Postman, VS Code  
 🧪 **Testes:** JUnit, Jest  
-
----
-
-
 
 ---
 
@@ -25,7 +18,5 @@
 ---
 
 ## 🌎 Onde me encontrar:
-📫 **E-mail:** seuemail@email.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/Vamarall/)  
-
-
+📧 **E-mail:** [amaralvitor580@gmail.com.com](mailto:amaralvitor580@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/Vamarall](https://www.linkedin.com/in/Vamarall/)  
