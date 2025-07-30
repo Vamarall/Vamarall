@@ -19,7 +19,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamarallshow_icons=true&theme=tokyonight)  
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamarall&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamarall&layout=compact&theme=tokyonight)  
 
 ---
