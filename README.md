@@ -19,13 +19,13 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamarallshow_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamarall&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌎 Onde me encontrar:
 📫 **E-mail:** seuemail@email.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/seu-perfil/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/Vamarall/)  
 
 
