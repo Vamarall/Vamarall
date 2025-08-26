@@ -1,5 +1,5 @@
 🎓 **Estudante de Engenharia de Software**  
-💻 **Desenvolvedor Back-end | Java & Spring Boot**  
+💻 **Desenvolvedor Back-end **  
 
 ---
 
