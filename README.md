@@ -4,7 +4,7 @@
 ---
 
 ## 🔧 Tech Stack
-💡 **Back-end:** Java, Spring Boot, Node.js  
+💡 **Back-end:** Java, Spring Boot, Node.js, NestJS  
 🗄️ **Banco de Dados:** PostgreSQL, MySQL, Supabase  
 🛠️ **Ferramentas:** Git, Docker, Postman, VS Code  
 🧪 **Testes:** JUnit, Jest  
